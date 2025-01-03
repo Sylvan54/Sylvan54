@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 <!-- ## Skills -->
 
-## Organizations
-
-- **[quantic-potato](https://github.com/quantic-potato)**
-
 ## Contact Me
 
 - **GitHub:** [Sylvan54](https://github.com/Sylvan54)

@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ## About Me
+<!-- ## About Me -->
 
-## Skills
+<!-- ## Skills -->
 
-## Organizations -->
+## Organizations
 
 - **[quantic-potato](https://github.com/quantic-potato)**
 

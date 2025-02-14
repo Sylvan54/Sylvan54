@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Email:** your.email@example.com -->
 
-Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect! -->
+<!-- Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect! -->
 
 <!-- ![Sylvan54's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylvan54&show_icons=true&theme=radical)
 

@@ -1,3 +1,5 @@
+<!--
+
 ## Hi there 👋
 
 <!--
@@ -30,3 +32,5 @@ Feel free to reach out if you have any questions, want to collaborate on a proje
 <!-- ![Sylvan54's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sylvan54&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvan54&layout=compact&theme=radical) -->
+
+-->
